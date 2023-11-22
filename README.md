@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Hussain</h1>
-<h3 align="center">I'm a CSE undergrad at JSS Science and Technology University(Formerly SJCE),Mysore,Karnataka,India.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20views&color=0e75b6&style=flat" alt="saadhussain01306" /> </p>
 
