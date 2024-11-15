@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Hussain</h1>
-<h3 align="center">4th Year CSE Undergrad from JSSSTU</h3>
+<h3 align="center">4th Year CS Student at JSSSTU</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20Views&color=0e75b6&style=flat" alt="saadhussain01306" />
@@ -35,8 +35,8 @@
 
 ### 📣 Follow Intrn.io
 <p align="center">
-  <a href="https://www.linkedin.com/company/intrnio" target="_blank">
-    <img src="assets/Intrn logo.jpeg" alt="Intrn.io Logo" height="80" />
+  <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
+    <img src="assets/Intrn logo.jpeg" alt="Intrn.io Logo" />
   </a>
 </p>
 
