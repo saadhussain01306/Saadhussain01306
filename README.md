@@ -36,9 +36,10 @@
 ### 📣 Follow Intrn.io
 <p align="center">
   <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
-    <img src="assets/Intrn logo.jpeg" alt="Intrn.io Logo" />
+    <img src="assets/Intrn logo.jpeg" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 8px;" />
   </a>
 </p>
+
 
 ---
 
