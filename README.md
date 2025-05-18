@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Hussain</h1>
-<h3 align="center">4th Year CS Student at JSSSTU</h3>
+<h3 align="center">4th Year CS Student at JSSSTU | SWE Intern @ Schneider Electric</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20Views&color=0e75b6&style=flat" alt="saadhussain01306" />
@@ -12,8 +12,8 @@
 ---
 
 ### 🌱 About Me
-- 🚀 I’m currently learning **MERN Stack Development & Machine Learning**.
-- 🤝 I’m open to collaborating on **Interesting Projects**.
+- 🚀 I’m currently learning **MERN Stack Development & Large Language Models (LLMs)**.
+- 🤝 I’m open to collaborating on **Interesting Projects** related to **Generative AI**.
 - 📫 Feel free to reach out to me at **saadhussainckm@gmail.com**.
 
 ---
@@ -36,8 +36,9 @@
 ### 📣 Follow Intrn.io
 <p align="center">
   <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
-    <img src="assets/Intrn_banner.png" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 10px;" />
+    <img src="assets/Intrn_banner.png" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 10px; animation: float 3s ease-in-out infinite;" />
   </a>
+  <p align="center" style="font-weight: bold; color: #36BCF7;">Follow for Placement Resources, Tips & Tricks, and Exciting Internship Opportunities!</p>
 </p>
 
 
