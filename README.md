@@ -35,26 +35,12 @@
 
 ### 📣 Follow Intrn.io
 
-<div align="center" style="background-color: #0e75b6; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); animation: float 3s ease-in-out infinite;">
+<div align="center" style="background-color: #0e75b6; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
-    <img src="assets/Intrn_banner.png" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 10px; animation: pulse 2s infinite;" />
+    <img src="assets/Intrn_banner.png" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 10px; animation: float 3s ease-in-out infinite; transform: translateY(0px);" />
   </a>
   <p style="font-weight: bold; color: #ffffff; font-size: 18px;">Follow for Placement Resources, Tips & Tricks, and Exciting Internship Opportunities!</p>
 </div>
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
 
 ---
 
