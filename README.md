@@ -10,10 +10,10 @@
 </p>
 
 ---
-## 🚀 Featured: Skelio – Build. Learn. Shine.
+## 📣 Follow  Skelio – Build. Learn. Shine.
 
 <p align="center">
-  <img src="assets/Skelio-Banner.png" alt="Skelio Banner" width="90%" />
+  <img src="https://your-repo-url/skelio-banner.png" alt="Skelio Banner" width="90%" />
 </p>
 
 <p align="center">
@@ -35,6 +35,14 @@
   📍 <strong>Join the movement. Build your career. Shine with Skelio.</strong>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
+    <img src="https://img.shields.io/badge/Skelio-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Skelio LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/skelio.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Skelio-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Skelio Instagram" />
+  </a>
+</p>
 ---
 
 ### 🌱 About Me
