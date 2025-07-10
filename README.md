@@ -10,6 +10,32 @@
 </p>
 
 ---
+## 🚀 Featured: Skelio – Build. Learn. Shine.
+
+<p align="center">
+  <img src="assets/Skelio-Banner.png" alt="Skelio Banner" width="90%" />
+</p>
+
+<p align="center">
+  <strong>Empowering the next generation of tech talent through real-world project fellowships, curated learning, and career-building resources.</strong>
+</p>
+
+<p align="center">
+  🔹 <strong>Resume-boosting Project Fellowships</strong>  
+  <br>🔹 <strong>Industry-relevant Learning Challenges</strong>  
+  <br>🔹 <strong>Placement & Internship Resources</strong>  
+  <br>🔹 <strong>Tips, Tricks & Tools for Early Tech Careers</strong>
+</p>
+
+<p align="center">
+  🌐 Whether you’re a student, self-learner, or tech explorer — Skelio helps you gain the experience that speaks louder than a certificate.
+</p>
+
+<p align="center">
+  📍 <strong>Join the movement. Build your career. Shine with Skelio.</strong>
+</p>
+
+---
 
 ### 🌱 About Me
 - 🚀 I’m currently learning **MERN Stack Development & Large Language Models (LLMs)**.
@@ -29,17 +55,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saadhussain01306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadhussain01306&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-### 📣 Follow Intrn.io
-
-<div align="center" style="background-color: #0e75b6; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <a href="https://www.linkedin.com/company/intrnio/" target="_blank">
-    <img src="assets/Intrn_banner.png" alt="Intrn.io Logo" height="100" style="margin: 10px; border-radius: 10px; animation: float 3s ease-in-out infinite; transform: translateY(0px);" />
-  </a>
-  <p style="font-weight: bold; color: #ffffff; font-size: 18px;">Follow for Placement Resources, Tips & Tricks, and Exciting Internship Opportunities!</p>
 </div>
 
 ---
