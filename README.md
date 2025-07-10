@@ -13,7 +13,7 @@
 ## 📣 Follow  Skelio – Build. Learn. Shine.
 
 <p align="center">
-  <img src="assets/Skelio-Banner.png" alt="Skelio Banner" width="90%" />
+  <img src="assests/Skelio-Banner.png" alt="Skelio Banner" width="90%" />
 </p>
 
 <p align="center">
