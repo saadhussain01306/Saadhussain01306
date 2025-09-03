@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Hussain</h1>
-<h3 align="center">4th Year CS Student at JSSSTU | SWE Intern @ Schneider Electric</h3>
+<h3 align="center">SDE @ Schneider Electric | Full Stack Developer | SJCE CSE'25 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20Views&color=0e75b6&style=flat" alt="saadhussain01306" />
